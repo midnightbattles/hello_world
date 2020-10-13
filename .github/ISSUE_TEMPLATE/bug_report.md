@@ -8,17 +8,17 @@ assignees: ''
 ---
 
 **Descreva o bug**
-Uma descrição clara e concisa de qual é o BUG.
+Descreva de forma clara e concisa o BUG.
 
 **Reproduzir**
-Passos para reproduzir o comportamento:
+Descreva os passos para reproduzir o comportamento, ex.:
 1. Vá para '...'
 2. Clique em '....'
 3. Role para baixo até '....'
 4. Veja o erro
 
 **Comportamento esperado**
-Uma descrição clara e concisa do que você esperava que acontecesse.
+Descreva de forma clara e concisa o que você esperava que acontecesse.
 
 **Capturas de tela**
 Se aplicável, adicione capturas de telas para ajudar a explicar o seu problema.
