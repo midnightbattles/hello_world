@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Crie um report para nos ajudar a melhorar
+name: Reportar um BUG
+about: Reporte um bug para nos ajudar a melhorar
 title: ''
 labels: ''
 assignees: ''
